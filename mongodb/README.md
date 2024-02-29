@@ -2,14 +2,6 @@
 
 Implementation TPC-H schema into MongoDB DBMS: TUTORIAL
 
-## Initial Setup
-
-Connect to mongo shell, create database and connect to schema.
-```javascript
-mongosh
-use tpch
-```
-
 ## Data Import and Schema Creation
 Run following queries uploaded in this repository.
 ```python
