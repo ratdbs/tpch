@@ -1,0 +1,6 @@
+/.metals
+/.vscode
+/mysql
+/postgres
+/mongodb/data/
+/mongodb/.ipynb_checkpoints
