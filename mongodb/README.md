@@ -3,6 +3,8 @@
 Implementation TPC-H schema into MongoDB DBMS: TUTORIAL
 
 ## Data Import and Schema Creation
+![alt text](image.png)
+
 Run following queries uploaded in this repository.
 ```python
 import pandas as pd
